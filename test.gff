@@ -1,0 +1,65 @@
+1	EVM	gene	29707321	29709797	.	+	.	ID=Si1g22350;Note=1 :: . :: AT5G27760 :: Hypoxia-responsive family protein;computational_description=Hypoxia-responsive family protein. CONTAINS InterPro DOMAIN/s: Hypoxia induced protein, conserved region (InterPro:IPR007667) :: LOC_Os02g37930 :: hypoxia-responsive family protein, putative, expressed :: . :: GO:0016021|integral component of membrane|cellular_component :: . :: PREDICTED: uncharacterized protein LOC101763554 [Setaria italica]
+1	EVM	mRNA	29707321	29709797	.	+	.	ID=Si1g22350.1;Parent=Si1g22350
+1	EVM	exon	29707321	29707390	.	+	.	Parent=Si1g22350.1;
+1	EVM	CDS	29707321	29707390	.	+	0	Parent=Si1g22350.1;
+1	EVM	exon	29707656	29707746	.	+	.	Parent=Si1g22350.1;
+1	EVM	CDS	29707656	29707746	.	+	2	Parent=Si1g22350.1;
+1	EVM	exon	29709659	29709797	.	+	.	Parent=Si1g22350.1;
+1	EVM	CDS	29709659	29709797	.	+	1	Parent=Si1g22350.1;
+1	EVM	gene	29710513	29713164	.	+	.	ID=Si1g22360;Note=1 :: . :: AT4G33170 :: Tetratricopeptide repeat (TPR)-like superfamily protein;computational_description=Tetratricopeptide repeat (TPR)-like superfamily protein. LOCATED IN: chloroplast. EXPRESSED IN: 9 plant structures. EXPRESSED DURING: 4 anthesis, F mature embryo stage, petal differentiation and expansion stage, E expanded cotyledon stage, D bilateral stage. CONTAINS InterPro DOMAIN/s: Pentatricopeptide repeat (InterPro:IPR002885) :: LOC_Os09g07780 :: pentatricopeptide repeat protein PPR986-12, putative, expressed :: . :: GO:0016023|cytoplasmic membrane-bounded vesicle|cellular_component :: . :: PREDICTED: pentatricopeptide repeat-containing protein At3g57430, chloroplastic-like [Setaria italica]
+1	EVM	mRNA	29710513	29713164	.	+	.	ID=Si1g22360.1;Parent=Si1g22360
+1	EVM	exon	29710513	29713164	.	+	.	Parent=Si1g22360.1;
+1	EVM	CDS	29710513	29713164	.	+	0	Parent=Si1g22360.1;
+1	EVM	gene	29728160	29731290	.	-	.	ID=Si1g22370;Note=4 :: . :: AT5G27830 :: folate receptor family protein;computational_description=FUNCTIONS IN: molecular_function unknown. INVOLVED IN: response to oxidative stress. LOCATED IN: endomembrane system. EXPRESSED IN: 22 plant structures. EXPRESSED DURING: 13 growth stages. CONTAINS InterPro DOMAIN/s: Folate receptor, conserved region (InterPro:IPR018143) :: LOC_Os02g37940 :: CRP12 - Cysteine-rich family protein precursor, expressed :: . :: GO:0006979|response to oxidative stress|biological_process :: . :: PREDICTED: uncharacterized protein LOC101764373 [Setaria italica]
+1	EVM	mRNA	29728160	29731290	.	-	.	ID=Si1g22370.1;Parent=Si1g22370
+1	EVM	five_prime_UTR	29730969	29731290	.	-	.	Parent=Si1g22370.1;
+1	EVM	exon	29730884	29731290	.	-	.	Parent=Si1g22370.1;
+1	EVM	CDS	29730884	29730968	.	-	0	Parent=Si1g22370.1;
+1	EVM	exon	29729879	29730237	.	-	.	Parent=Si1g22370.1;
+1	EVM	CDS	29729879	29730237	.	-	1	Parent=Si1g22370.1;
+1	EVM	exon	29729215	29729549	.	-	.	Parent=Si1g22370.1;
+1	EVM	CDS	29729215	29729549	.	-	0	Parent=Si1g22370.1;
+1	EVM	exon	29728160	29728678	.	-	.	Parent=Si1g22370.1;
+1	EVM	CDS	29728570	29728678	.	-	2	Parent=Si1g22370.1;
+1	EVM	three_prime_UTR	29728160	29728569	.	-	.	Parent=Si1g22370.1;
+1	EVM	mRNA	29728374	29731062	.	-	.	ID=Si1g22370.2;Parent=Si1g22370
+1	EVM	five_prime_UTR	29730969	29731062	.	-	.	Parent=Si1g22370.2;
+1	EVM	exon	29730884	29731062	.	-	.	Parent=Si1g22370.2;
+1	EVM	CDS	29730884	29730968	.	-	0	Parent=Si1g22370.2;
+1	EVM	exon	29729879	29730237	.	-	.	Parent=Si1g22370.2;
+1	EVM	CDS	29729879	29730237	.	-	1	Parent=Si1g22370.2;
+1	EVM	exon	29729215	29729549	.	-	.	Parent=Si1g22370.2;
+1	EVM	CDS	29729215	29729549	.	-	0	Parent=Si1g22370.2;
+1	EVM	exon	29728374	29728777	.	-	.	Parent=Si1g22370.2;
+1	EVM	CDS	29728768	29728777	.	-	2	Parent=Si1g22370.2;
+1	EVM	three_prime_UTR	29728374	29728767	.	-	.	Parent=Si1g22370.2;
+1	EVM	mRNA	29728376	29731075	.	-	.	ID=Si1g22370.3;Parent=Si1g22370
+1	EVM	five_prime_UTR	29730969	29731075	.	-	.	Parent=Si1g22370.3;
+1	EVM	exon	29730884	29731075	.	-	.	Parent=Si1g22370.3;
+1	EVM	CDS	29730884	29730968	.	-	0	Parent=Si1g22370.3;
+1	EVM	exon	29729879	29730237	.	-	.	Parent=Si1g22370.3;
+1	EVM	CDS	29729879	29730237	.	-	1	Parent=Si1g22370.3;
+1	EVM	exon	29728376	29729549	.	-	.	Parent=Si1g22370.3;
+1	EVM	CDS	29729178	29729549	.	-	0	Parent=Si1g22370.3;
+1	EVM	three_prime_UTR	29728376	29729177	.	-	.	Parent=Si1g22370.3;
+1	EVM	mRNA	29728385	29731075	.	-	.	ID=Si1g22370.4;Parent=Si1g22370
+1	EVM	five_prime_UTR	29730350	29731075	.	-	.	Parent=Si1g22370.4;
+1	EVM	exon	29729879	29731075	.	-	.	Parent=Si1g22370.4;
+1	EVM	CDS	29729879	29730349	.	-	0	Parent=Si1g22370.4;
+1	EVM	exon	29729215	29729549	.	-	.	Parent=Si1g22370.4;
+1	EVM	CDS	29729215	29729549	.	-	0	Parent=Si1g22370.4;
+1	EVM	exon	29728385	29728678	.	-	.	Parent=Si1g22370.4;
+1	EVM	CDS	29728570	29728678	.	-	2	Parent=Si1g22370.4;
+1	EVM	three_prime_UTR	29728385	29728569	.	-	.	Parent=Si1g22370.4;
+1	EVM	gene	29734112	29734650	.	-	.	ID=Si1g22380;Note=1 :: . :: AT5G49120 :: DUF581 family protein, putative (DUF581);computational_description=Protein of unknown function (DUF581). FUNCTIONS IN: molecular_function unknown. INVOLVED IN: biological_process unknown. LOCATED IN: chloroplast. EXPRESSED IN: 18 plant structures. EXPRESSED DURING: 7 growth stages. CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF581 (InterPro:IPR007650) :: LOC_Os02g37970 :: DUF581 domain containing protein, expressed :: . ::  :: . :: PREDICTED: uncharacterized protein LOC101764776 [Setaria italica]
+1	EVM	mRNA	29734112	29734650	.	-	.	ID=Si1g22380.1;Parent=Si1g22380
+1	EVM	exon	29734442	29734650	.	-	.	Parent=Si1g22380.1;
+1	EVM	CDS	29734442	29734650	.	-	0	Parent=Si1g22380.1;
+1	EVM	exon	29734112	29734265	.	-	.	Parent=Si1g22380.1;
+1	EVM	CDS	29734112	29734265	.	-	1	Parent=Si1g22380.1;
+1	EVM	gene	29746689	29748911	.	-	.	ID=Si1g22390;Note=1 :: . :: AT5G10200 :: ARM-repeat/Tetratricopeptide repeat (TPR)-like protein;computational_description=ARM-repeat/Tetratricopeptide repeat (TPR)-like protein. FUNCTIONS IN: binding. INVOLVED IN: biological_process unknown. LOCATED IN: plasma membrane. CONTAINS InterPro DOMAIN/s: Tetratricopeptide-like helical (InterPro:IPR011990), Armadillo-type fold (InterPro:IPR016024) :: LOC_Os05g34820 :: expressed protein :: . :: GO:0005886|plasma membrane|cellular_component :: . :: PREDICTED: uncharacterized protein LOC101765180 [Setaria italica]
+1	EVM	mRNA	29746689	29748911	.	-	.	ID=Si1g22390.1;Parent=Si1g22390
+1	EVM	exon	29747943	29748911	.	-	.	Parent=Si1g22390.1;
+1	EVM	CDS	29747943	29748911	.	-	0	Parent=Si1g22390.1;
+1	EVM	exon	29746689	29747546	.	-	.	Parent=Si1g22390.1;
+1	EVM	CDS	29746689	29747546	.	-	0	Parent=Si1g22390.1;
