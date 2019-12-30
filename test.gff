@@ -1,0 +1,75 @@
+9	EVM	gene	54568370	54573579	.	-	.	ID=Si9g49970;Note=2 :: . :: AT5G66820 :: transmembrane protein;computational_description=unknown protein :: LOC_Os03g08740 :: expressed protein :: . :: GO:0009086|methionine biosynthetic process|biological_process :: GO:0000394|RNA splicing, via endonucleolytic cleavage and ligation|biological_process :: GO:0016020|membrane|cellular_component :: GO:0010048|vernalization response|biological_process :: GO:0009536|plastid|cellular_component :: . :: PREDICTED: uncharacterized protein LOC101762980 isoform X1 [Setaria italica]
+9	EVM	mRNA	54568370	54573579	.	-	.	ID=Si9g49970.1;Parent=Si9g49970
+9	EVM	five_prime_UTR	54573450	54573579	.	-	.	Parent=Si9g49970.1;
+9	EVM	exon	54573346	54573579	.	-	.	Parent=Si9g49970.1;
+9	EVM	CDS	54573346	54573449	.	-	0	Parent=Si9g49970.1;
+9	EVM	exon	54571309	54573037	.	-	.	Parent=Si9g49970.1;
+9	EVM	CDS	54571309	54573037	.	-	2	Parent=Si9g49970.1;
+9	EVM	exon	54569472	54570592	.	-	.	Parent=Si9g49970.1;
+9	EVM	CDS	54569472	54570592	.	-	0	Parent=Si9g49970.1;
+9	EVM	exon	54568370	54569384	.	-	.	Parent=Si9g49970.1;
+9	EVM	CDS	54568493	54569384	.	-	2	Parent=Si9g49970.1;
+9	EVM	three_prime_UTR	54568370	54568492	.	-	.	Parent=Si9g49970.1;
+9	EVM	mRNA	54568440	54573368	.	-	.	ID=Si9g49970.2;Parent=Si9g49970
+9	EVM	five_prime_UTR	54573175	54573368	.	-	.	Parent=Si9g49970.2;
+9	EVM	exon	54571309	54573368	.	-	.	Parent=Si9g49970.2;
+9	EVM	CDS	54571309	54573174	.	-	0	Parent=Si9g49970.2;
+9	EVM	exon	54569472	54570592	.	-	.	Parent=Si9g49970.2;
+9	EVM	CDS	54569472	54570592	.	-	0	Parent=Si9g49970.2;
+9	EVM	exon	54568440	54569384	.	-	.	Parent=Si9g49970.2;
+9	EVM	CDS	54568493	54569384	.	-	2	Parent=Si9g49970.2;
+9	EVM	three_prime_UTR	54568440	54568492	.	-	.	Parent=Si9g49970.2;
+9	EVM	gene	54586113	54591103	.	-	.	ID=Si9g49980;Note=1 :: . ::  :: . :: LOC_Os03g08730 :: uroporphyrinogen III synthase, putative, expressed :: . :: GO:0006782|protoporphyrinogen IX biosynthetic process|biological_process :: GO:0004852|uroporphyrinogen-III synthase activity|molecular_function :: GO:0015995|chlorophyll biosynthetic process|biological_process :: GO:0006780|uroporphyrinogen III biosynthetic process|biological_process :: GO:0009507|chloroplast|cellular_component :: K01719|0|sita:101763667|K01719 uroporphyrinogen-III synthase [EC:4.2.1.75] | (RefSeq) uroporphyrinogen-III synthase, chloroplastic-like :: PREDICTED: uroporphyrinogen-III synthase, chloroplastic-like isoform X2 [Setaria italica]
+9	EVM	mRNA	54586113	54591103	.	-	.	ID=Si9g49980.1;Parent=Si9g49980
+9	EVM	five_prime_UTR	54590239	54591103	.	-	.	Parent=Si9g49980.1;
+9	EVM	exon	54590062	54591103	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54590062	54590238	.	-	0	Parent=Si9g49980.1;
+9	EVM	exon	54589085	54589172	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54589085	54589172	.	-	0	Parent=Si9g49980.1;
+9	EVM	exon	54588785	54588851	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54588785	54588851	.	-	1	Parent=Si9g49980.1;
+9	EVM	exon	54588406	54588524	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54588406	54588524	.	-	2	Parent=Si9g49980.1;
+9	EVM	exon	54588193	54588288	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54588193	54588288	.	-	1	Parent=Si9g49980.1;
+9	EVM	exon	54587860	54587915	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54587860	54587915	.	-	1	Parent=Si9g49980.1;
+9	EVM	exon	54587220	54587305	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54587220	54587305	.	-	0	Parent=Si9g49980.1;
+9	EVM	exon	54586772	54586906	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54586772	54586906	.	-	2	Parent=Si9g49980.1;
+9	EVM	exon	54586562	54586613	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54586562	54586613	.	-	2	Parent=Si9g49980.1;
+9	EVM	exon	54586113	54586483	.	-	.	Parent=Si9g49980.1;
+9	EVM	CDS	54586469	54586483	.	-	0	Parent=Si9g49980.1;
+9	EVM	three_prime_UTR	54586113	54586468	.	-	.	Parent=Si9g49980.1;
+9	EVM	gene	54605094	54607931	.	+	.	ID=Si9g49990;Note=1 :: . ::  :: . :: LOC_Os01g56380 :: decarboxylase, putative, expressed :: . :: GO:0030170|pyridoxal phosphate binding|molecular_function :: GO:0016831|carboxy-lyase activity|molecular_function :: GO:0006520|cellular amino acid metabolic process|biological_process :: K01592|0|sita:101765018|K01592 tyrosine decarboxylase [EC:4.1.1.25] | (RefSeq) tyrosine decarboxylase 1-like :: PREDICTED: tyrosine/DOPA decarboxylase 2-like [Setaria italica]
+9	EVM	mRNA	54605094	54607931	.	+	.	ID=Si9g49990.1;Parent=Si9g49990
+9	EVM	five_prime_UTR	54605094	54605135	.	+	.	Parent=Si9g49990.1;
+9	EVM	exon	54605094	54606780	.	+	.	Parent=Si9g49990.1;
+9	EVM	CDS	54605136	54606780	.	+	0	Parent=Si9g49990.1;
+9	EVM	exon	54606932	54607931	.	+	.	Parent=Si9g49990.1;
+9	EVM	CDS	54606932	54607059	.	+	1	Parent=Si9g49990.1;
+9	EVM	three_prime_UTR	54607060	54607931	.	+	.	Parent=Si9g49990.1;
+9	EVM	mRNA	54605094	54607931	.	+	.	ID=Si9g49990.2;Parent=Si9g49990
+9	EVM	five_prime_UTR	54605094	54605135	.	+	.	Parent=Si9g49990.2;
+9	EVM	exon	54605094	54606780	.	+	.	Parent=Si9g49990.2;
+9	EVM	CDS	54605136	54606780	.	+	0	Parent=Si9g49990.2;
+9	EVM	exon	54606832	54607931	.	+	.	Parent=Si9g49990.2;
+9	EVM	CDS	54606832	54607159	.	+	1	Parent=Si9g49990.2;
+9	EVM	three_prime_UTR	54607160	54607931	.	+	.	Parent=Si9g49990.2;
+9	EVM	gene	54620846	54622372	.	-	.	ID=Si9g50000;Note=1 :: . ::  :: . ::  :: . ::  :: . ::  :: 
+9	EVM	mRNA	54620846	54622372	.	-	.	ID=Si9g50000.1;Parent=Si9g50000
+9	EVM	exon	54622329	54622372	.	-	.	Parent=Si9g50000.1;
+9	EVM	CDS	54622329	54622372	.	-	0	Parent=Si9g50000.1;
+9	EVM	exon	54620846	54621629	.	-	.	Parent=Si9g50000.1;
+9	EVM	CDS	54620846	54621629	.	-	1	Parent=Si9g50000.1;
+9	EVM	gene	54624737	54626019	.	-	.	ID=Si9g50010;Note=1 :: . :: AT5G64816 :: thionin-like protein;computational_description=unknown protein :: LOC_Os03g08710 :: THION26 - Plant thionin family protein precursor, expressed :: . ::  :: . :: PREDICTED: uncharacterized protein At5g64816-like isoform X1 [Setaria italica] 
+9	EVM	mRNA	54624737	54626019	.	-	.	ID=Si9g50010.1;Parent=Si9g50010
+9	EVM	five_prime_UTR	54625746	54626019	.	-	.	Parent=Si9g50010.1;
+9	EVM	exon	54625335	54626019	.	-	.	Parent=Si9g50010.1;
+9	EVM	CDS	54625368	54625745	.	-	0	Parent=Si9g50010.1;
+9	EVM	exon	54624737	54624952	.	-	.	Parent=Si9g50010.1;
+9	EVM	three_prime_UTR	54625335	54625367	.	-	.	Parent=Si9g50010.1;
+9	EVM	three_prime_UTR	54624737	54624952	.	-	.	Parent=Si9g50010.1;
+
