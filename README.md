@@ -39,4 +39,4 @@ e.g. perl  perl  GWAS2LD_haplotypes.pl   ./your.gff  ./haplotypes.hmp  ./Phenoty
 </br>
 
 ## Contact information
-For any questions please contact xukai_li@qq.com</br>
+For any questions please contact xukai_li@sxau.edu.cn or xukai_li@qq.com</br>
