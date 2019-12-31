@@ -31,5 +31,12 @@ e.g. perl  SNP_Gene_Phenotype2haplotypes.pl  ./haplotypes.hmp   ./Phenotype.txt 
 ```
 </br>
 
+By the way, if you want do All gene in LD region of a position, then run:</br>
+```
+     perl  GWAS2LD_haplotypes.pl   ./genome.gff  ./ann.hmp  ./Phenotype.txt  50kb  Chr:position
+e.g. perl  perl  GWAS2LD_haplotypes.pl   ./your.gff  ./haplotypes.hmp  ./Phenotype.txtt  50kb  9:54605172
+```
+</br>
+
 ## Contact information
 For any questions please contact xukai_li@qq.com</br>
